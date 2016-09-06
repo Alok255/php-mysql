@@ -1,0 +1,4 @@
+This Project is like create user id and view each user Profile 
+1)First import sql_file
+2)go localhost Register your Profile
+3)Goto login and view your Profile
